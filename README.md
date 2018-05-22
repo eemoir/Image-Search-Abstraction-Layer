@@ -1,4 +1,4 @@
-#Image Search Abstraction Layer
+# Image Search Abstraction Layer
 
 This is my code for the <a href="https://www.freecodecamp.org/challenges/image-search-abstraction-layer">Image Search Abstraction Layer project<a> for Free Code Camp's Backend Certification.
 
